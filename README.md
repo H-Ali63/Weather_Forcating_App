@@ -39,8 +39,5 @@ pip install -r requirements.txt
 
 ![image](https://github.com/H-Ali63/Weather_Forcating_App/assets/151657596/b70829d6-5e35-4e6c-886a-b4419d9c8737)
 
-License:
-This project is licensed under the MIT License.
-
 Acknowledgments:
 Thanks to OpenWeatherMap for providing the weather data API.
